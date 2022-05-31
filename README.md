@@ -7,6 +7,7 @@ A group project at HSLU for the module "Customer data analytics".
 - Products have a limited Shelf Life
 - Planning is crucial for every step in the Supply-Chain: Sales and operations planning, Event planning (promotion, life-cycle), Demand planning, Production planning and scheduling
 - Data is Hard to get: Different and/or Proprietary Systems, Different Quality Requirements / KPIs, Differences in Data Quality!
+- The use case is from Migros, one of the biggrest supermarket in Switzerland and the main focus is yoghurt product
 
 ## Data 
 - 19 Yoghurt Products from different categories
